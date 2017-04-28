@@ -637,6 +637,10 @@ h6,
 }
 
 
+
+
+
+
 #ext_menu-e .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -700,6 +704,26 @@ h6,
   color: #c0a375!important;
 }
 #buttons1-g .btn {
+  font-family: 'Oswald', sans-serif;
+}
+#header3-10 .mbr-section-title,
+#header3-10 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-11 .mbr-section-title,
+#header3-11 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-11 H3 {
+  font-family: 'Oswald', sans-serif;
+}
+#header3-11 SMALL {
+  font-family: 'Oswald', sans-serif;
+}
+#gallery4-13 LI {
+  font-family: 'Oswald', sans-serif;
+}
+#buttons1-14 .btn {
   font-family: 'Oswald', sans-serif;
 }
 
@@ -768,6 +792,10 @@ h6,
 }
 #buttons1-n .btn {
   font-family: 'Oswald', sans-serif;
+}
+#header3-15 .mbr-section-title,
+#header3-15 .mbr-section-subtitle {
+  text-align: center;
 }
 
 
