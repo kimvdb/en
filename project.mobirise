@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor EN ",
-    "currentPage": "contact.html",
+    "currentPage": "home.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -43,26 +43,6 @@
         "order": 1
       },
       "components": [
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2017 Kimberly Vanderbeken."
-        },
         {
           "_inherit": "menu",
           "_tags": [
