@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor EN ",
-    "currentPage": "home.html",
+    "currentPage": "nylonandinterpretations.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1506,7 +1506,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"work.html\" data-toolbar=\"-mbrBtnMove\">Back to 'Work'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feyti.html\" data-toolbar=\"-mbrBtnMove\">Feyti</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"nylonandinterpretations.html\" data-toolbar=\"-mbrBtnMove\">Nylon and Interpretations</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"glass.html\" data-toolbar=\"-mbrBtnMove\">Glass</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"work.html\" data-toolbar=\"-mbrBtnMove\">Back to 'Work'</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"ameode.html\" data-toolbar=\"-mbrBtnMove\">Ameode</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"feyti.html\" data-toolbar=\"-mbrBtnMove\">Feyti</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"glass.html\" data-toolbar=\"-mbrBtnMove\">Glass</a>"
         }
       ]
     },
