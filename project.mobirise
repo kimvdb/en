@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor EN ",
-    "currentPage": "home.html",
+    "currentPage": "ameode.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -365,7 +365,7 @@
     "work.html": {
       "settings": {
         "title": "Work",
-        "meta_descr": "",
+        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, work, ceramic",
         "order": 3
       },
       "components": [
@@ -592,7 +592,7 @@
     "ameode.html": {
       "settings": {
         "title": "Ameode",
-        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, ceramic, ameode",
+        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, ceramic, ameode, organic, shapes",
         "order": 4
       },
       "components": [
