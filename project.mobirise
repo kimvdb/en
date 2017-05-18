@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor EN ",
-    "currentPage": "home.html",
+    "currentPage": "ameode.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -357,7 +357,7 @@
             }
           },
           "title": "About",
-          "text": "Kimberly Vanderbeken is currently in her third bachelor 'Glass and Ceramics', this at Sint-Lucas Fine Arts in Ghent (BE). At the end of this year, in July, she will graduate.&nbsp;<br><br>Her secundary education wasn't artistic in its nature, she graduated in 'Mathematics and Science' at Sint-Janberchmanscollege in Avelgem. However she always had the urge to be occupied with her hands. That's why she went at DKO in her spare time. This in GAVKA in Avelgem.&nbsp;<br><br>She choose for this education because this medium is one of the few where the contact between the human body and the material at it's most is.&nbsp;",
+          "text": "Kimberly Vanderbeken is currently in her third bachelor 'Glass and Ceramics', this at Sint-Lucas Fine Arts in Ghent (BE). At the end of this year, in July, she will graduate.&nbsp;<br><br>The nature of her secundary education wasn't artistic, she graduated in 'Science and Mathematics' at Sint-Janberchmanscollege in Avelgem. However she always had the urge to work with her hands. That's why she went at DKO in her spare time. This in GAVKA in Avelgem.&nbsp;<br><br>She chose for this education because this medium ( Ceramics and Glass) is one of the few where the interaction between the human body and the material is at its most.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         }
       ]
@@ -503,7 +503,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>The medium which she uses the most is ceramics. This because she has more feeling with the material and the processes that come along with it are more leisurely in contrast to glass. Besides glass and ceramics, she uses also different materials as nylon and foam dependent on the criteria whereat the work must suffice. Sometimes ceramics or glass doesn't fit &nbsp;an idea as well and is another material more sufficient. &nbsp;than glass.</p><p><br></p><p>Control is a factor which reoccurs in her work. She searches for the fine line between control and letting go. You can devide her ceramic work in two main groups: 'Ameode' and 'Feyti'.</p>"
+          "text": "<p>The medium which she uses the most is ceramics. This because she has more feeling with the material and the processes that comes along with it are more leisurely in contrast to glass. Besides glass and ceramics, she also uses different materials as nylon and foam depending on the criteria where the work must match to. Sometimes ceramics or glass doesn't fit &nbsp;an idea as well as another material.</p><p><br></p><p>A factor which reoccurs in her work is control. She looking for the thin line between control and letting go. You can devide her ceramic work in two main groups: 'Ameode' and 'Feyti'.</p>"
         },
         {
           "_tags": [
@@ -753,7 +753,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Within this project her work focus on the research of shapes, textures and the tension of a shape. It consists of organic shapes with taut contours. She gets her inspiration from the outlines of interesting human postures. </p><p>Then she makes a 2D design of it and from there on she makes a primary study in 3D. These are the foundation for the work, but she doesn't fix the form of it. The bodies grow and arise from the material itself. This is achieved by continuously adjusting the form through formation. She wants to play with coincidences in a process where a lot of control is needed.&nbsp;</p><p><br></p><p>These are one by one abstract bodies which she eventually cuts through. To open up the work's surface, in order to create a contrast between the cut and the body. Here she can play further with the control of the cuts, by being relentless or cautious.</p>"
+          "text": "<p>Within this project her work focuses on the research of shapes, textures and the tension of a shape. It consists of organic shapes with tauted contours. She gets her inspiration from the outlines of interesting human postures. </p><p>Then she makes a 2D design of it and from there on she makes a primary study in 3D. These are the foundations for the work, but she doesn't fixes the form of it. The bodies grow and rise from the material itself. This is achieved by continuously adjusting the form through formation. She wants to play with coincidences in a process where a lot of control is needed.&nbsp;</p><p><br></p><p>These are one by one abstract bodies which she eventually cuts through to open up the work's surface, in order to create a contrast between the cut and the body. Here she can play along with the control of the cuts, by being relentless or cautious.</p>"
         },
         {
           "_inherit": "gallery1",
