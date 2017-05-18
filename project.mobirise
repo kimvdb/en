@@ -357,7 +357,7 @@
             }
           },
           "title": "About",
-          "text": "Kimberly Vanderbeken is currently in her third bacherlor 'Glass and Ceramics', this at Sint-Lucas Fine Arts in Ghent (BE). At the end of this year she will graduate in July.&nbsp;<br><br>Her secundary education wasn't artistic in its nature, she graduated in 'Mathematics and Science' at Sint-Janberchmanscollege in Avelgem. However she always had the urge to be occupied with her hands. That's why she went at DKO in her spare time. This in GAVKA in Avelgem.&nbsp;<br><br>She choose for this education because this medium is one of the few where the contact between the human body and the material at it's most is.&nbsp;",
+          "text": "Kimberly Vanderbeken is currently in her third bachelor 'Glass and Ceramics', this at Sint-Lucas Fine Arts in Ghent (BE). At the end of this year, in July, she will graduate.&nbsp;<br><br>Her secundary education wasn't artistic in its nature, she graduated in 'Mathematics and Science' at Sint-Janberchmanscollege in Avelgem. However she always had the urge to be occupied with her hands. That's why she went at DKO in her spare time. This in GAVKA in Avelgem.&nbsp;<br><br>She choose for this education because this medium is one of the few where the contact between the human body and the material at it's most is.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         }
       ]
@@ -1103,19 +1103,19 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "content1-16",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Here it is very important that we make a difference between control and letting go. These works are inspired on morbid obesity. It is not seen as the icon or disgust of this illness or to be more precise, those who suffer this disease. For her it is a disease that is own to our society in which we live. A disease where hidden emotions become externally visible.&nbsp;</p><p><br></p><p>Feyti’s are abstract reflections of the massive presence of fat, there is no human recognition. They are abstract bodies that are born out of our society where social media is everywhere around us, where isolation is common and where the virtual world priors our own. The unrealistic image of beauty is principal to reality. In first place, they are memories to all those facts and not the disgust on obesity, nor it is intended to enlighten it.&nbsp;</p>",
-          "_styles": {
-            "P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "text": "<p>Here it is very important that we make a difference between control and letting go. These works are inspired on morbid obesity. It is not seen as the icon or disgust of this illness or to be more precise, those who suffer this disease. For her it is a disease that is own to our society in which we live. A disease where hidden emotions become externally visible.&nbsp;</p><p><br></p><p>Feyti’s are abstract reflections of the massive presence of fat, there is no human recognition. They are abstract bodies that are born out of our society where social media is everywhere around us, where isolation is common and where the virtual world priors our own. The unrealistic image of beauty is principal to reality. In first place, they are memories to all those facts and not the disgust on obesity, nor it is intended to enlighten it.&nbsp;</p>"
         },
         {
           "_inherit": "gallery1",
@@ -1245,19 +1245,19 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "content1-1b",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>These works made out of the inspiration of shapes in her work “Ameode”. Though they are evolved to a kind of its own. They are a sort of cysts or a mass of fat. Then she wanted to translate this whole thing into ceramic, by filling cloths with clay and hang them and give them a shape using ropes.</p><p>A whole new being has been created.  Both are linked with each other but they are both works on their own.</p><p><br></p><p>Here coincidence and negligence are more important than control. The works were not made following a plan nor they have been studied in how to become the shape It is made on a spontaneous way without spending too much thoughts&nbsp;</p><p><br></p>",
-          "_styles": {
-            "P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "text": "<p>These works made out of the inspiration of shapes in her work “Ameode”. Though they are evolved to a kind of its own. They are a sort of cysts or a mass of fat. Then she wanted to translate this whole thing into ceramic, by filling cloths with clay and hang them and give them a shape using ropes.</p><p>A whole new being has been created.  Both are linked with each other but they are both works on their own.</p><p><br></p><p>Here coincidence and negligence are more important than control. The works were not made following a plan nor they have been studied in how to become the shape It is made on a spontaneous way without spending too much thoughts&nbsp;</p><p><br></p>"
         },
         {
           "_inherit": "gallery1",
@@ -1912,19 +1912,19 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "content1-1e",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Glass exists out of more decorative and applicable work Here the techniques are very important, like pâte de verre and warm glass.</p>",
-          "_styles": {
-            "P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "text": "<p>Glass exists out of more decorative and applicable work Here the techniques are very important, like pâte de verre and warm glass.</p>"
         },
         {
           "_inherit": "gallery1",
@@ -2025,19 +2025,19 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
           "_anchor": "content1-1f",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>This was a project together with Rietje Creve and Kellie Lippens. We weere given four lightsources, a flashlight, a slide projector, overhead-projector and a beamer.</p><p><br></p><p>We took the beamer to a higher level in this project. They chose to expand the white area with as less objects as possible. By using lesser objects they where not bound to limitations.&nbsp;</p><p>By using mirrors the white area was pulled open and the color schemes where repeated. That is how the whole being was seen as one. For us it was important to maximize the use of the area without exceeding the area itself</p><p><br></p>",
-          "_styles": {
-            "P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
+          "text": "<p>This was a project together with Rietje Creve and Kellie Lippens. We weere given four lightsources, a flashlight, a slide projector, overhead-projector and a beamer.</p><p><br></p><p>We took the beamer to a higher level in this project. They chose to expand the white area with as less objects as possible. By using lesser objects they where not bound to limitations.&nbsp;</p><p>By using mirrors the white area was pulled open and the color schemes where repeated. That is how the whole being was seen as one. For us it was important to maximize the use of the area without exceeding the area itself</p><p><br></p>"
         },
         {
           "_tags": [
