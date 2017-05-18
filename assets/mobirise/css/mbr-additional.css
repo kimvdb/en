@@ -728,6 +728,8 @@ h6,
 }
 
 
+
+
 #ext_menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -761,19 +763,19 @@ h6,
 }
 #ext_menu-k .link[aria-expanded="true"],
 #ext_menu-k .dropdown-menu {
-  background: #0e0e0e;
+  background: #1a1918;
 }
 #ext_menu-k .nav-dropdown-sm .link:focus,
 #ext_menu-k .nav-dropdown-sm .link:hover,
 #ext_menu-k .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-k .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #2d2a29!important;
 }
 #ext_menu-k .navbar,
 #ext_menu-k .nav-dropdown-sm,
 #ext_menu-k .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-k .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #353230;
 }
 #ext_menu-k .bg-color.transparent .link {
   color: #ffffff;
@@ -797,6 +799,13 @@ h6,
 #header3-15 .mbr-section-subtitle {
   text-align: center;
 }
+#header3-15 SMALL {
+  font-family: 'Oswald', sans-serif;
+}
+#content1-16 P {
+  font-family: 'Oswald', sans-serif;
+}
+
 
 
 
@@ -814,6 +823,9 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #header3-19 SMALL {
+  font-family: 'Oswald', sans-serif;
+}
+#content1-1b P {
   font-family: 'Oswald', sans-serif;
 }
 #gallery4-p LI {
@@ -975,6 +987,8 @@ h6,
 
 
 
+
+
 #header3-1d .mbr-section-title,
 #header3-1d .mbr-section-subtitle {
   text-align: center;
@@ -1022,19 +1036,19 @@ h6,
 }
 #ext_menu-r .link[aria-expanded="true"],
 #ext_menu-r .dropdown-menu {
-  background: #0e0e0e;
+  background: #1a1918;
 }
 #ext_menu-r .nav-dropdown-sm .link:focus,
 #ext_menu-r .nav-dropdown-sm .link:hover,
 #ext_menu-r .nav-dropdown-sm .dropdown-item:focus,
 #ext_menu-r .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #2d2a29!important;
 }
 #ext_menu-r .navbar,
 #ext_menu-r .nav-dropdown-sm,
 #ext_menu-r .nav-dropdown-sm .link[aria-expanded="true"],
 #ext_menu-r .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #353230;
 }
 #ext_menu-r .bg-color.transparent .link {
   color: #ffffff;
@@ -1051,10 +1065,16 @@ h6,
 #ext_menu-r .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#content1-1e P {
+  font-family: 'Oswald', sans-serif;
+}
 #content1-1h P {
   font-family: 'Oswald', sans-serif;
   font-size: 22px;
   color: #232323;
+}
+#content1-1f P {
+  font-family: 'Oswald', sans-serif;
 }
 #buttons1-t .btn {
   font-family: 'Oswald', sans-serif;
