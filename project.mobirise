@@ -157,7 +157,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/ci.gif",
+            "bgImage": "@PROJECT_PATH@/assets/images/ci.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
