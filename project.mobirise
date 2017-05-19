@@ -36,7 +36,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, ceramic",
+        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, ceramics",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -181,7 +181,7 @@
     "about.html": {
       "settings": {
         "title": "About",
-        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, about, ceramic",
+        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, about, ceramics",
         "order": 2
       },
       "components": [
@@ -365,7 +365,7 @@
     "work.html": {
       "settings": {
         "title": "Work",
-        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, work, ceramic",
+        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, work, ceramics, glass",
         "order": 3
       },
       "components": [
@@ -592,7 +592,7 @@
     "ameode.html": {
       "settings": {
         "title": "Ameode",
-        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, ceramic, ameode, organic, shapes",
+        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, ceramics, ameode, organic, shapes",
         "order": 4
       },
       "components": [
@@ -958,7 +958,7 @@
     "feyti.html": {
       "settings": {
         "title": "Feyti",
-        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, ceramic, feyti, obesity",
+        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, ceramics, feyti, Feyti, obesity",
         "order": 5
       },
       "components": [
@@ -1188,7 +1188,7 @@
     "nylonandinterpretations.html": {
       "settings": {
         "title": "Nylon and Interpretations",
-        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, ceramic, nylon",
+        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, ceramics, nylon",
         "order": 6
       },
       "components": [
@@ -1535,7 +1535,7 @@
     "contact.html": {
       "settings": {
         "title": "Contact",
-        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, ceramic, contact",
+        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, ceramics, contact",
         "order": 8
       },
       "components": [
@@ -1762,7 +1762,7 @@
     "glass.html": {
       "settings": {
         "title": "Glass",
-        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, ceramic, glass",
+        "meta_descr": "copyright, Kimberly Vanderbeken, Kimberly, Vanderbeken, ceramics, glass",
         "order": 7
       },
       "components": [
