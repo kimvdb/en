@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site 3de bachelor EN ",
-    "currentPage": "contact.html",
+    "currentPage": "feyti.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 56,
+    "uniqCompNum": 59,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -1118,22 +1118,50 @@
           "text": "<p>Here it is very important that we make a difference between control and letting go. These works are inspired on morbid obesity. It is not seen as the icon or disgust of this illness or to be more precise, those who suffer this disease. For her it is a disease that is own to our society in which we live. A disease where hidden emotions become externally visible.&nbsp;</p><p><br></p><p>Feyti’s are abstract reflections of the massive presence of fat, there is no human recognition. They are abstract bodies that are born out of our society where social media is everywhere around us, where isolation is common and where the virtual world priors our own. The unrealistic image of beauty is principal to reality. In first place, they are memories to all those facts and not the disgust on obesity, nor it is intended to enlighten it.&nbsp;</p>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-1k",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/p1100146.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery2",
+          "_name": "gallery4",
           "_params": {
             "paddingTop": "2",
-            "paddingBottom": "3",
+            "paddingBottom": "2",
             "images": [
               {
-                "tags": "Beautiful",
+                "tags": "Awesome",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feyti-ii-800x1206.jpg",
-                "image": "@PROJECT_PATH@/assets/images/feyti-ii.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100158-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100158.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1142,8 +1170,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feyti-iv-800x1208.jpg",
-                "image": "@PROJECT_PATH@/assets/images/feyti-iv.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100151-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100151.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100150-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100150.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1152,13 +1190,43 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feyti-i-800x529.jpg",
-                "image": "@PROJECT_PATH@/assets/images/feyti-i.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100156-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100156.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100143-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100143.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100144-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100144.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1100152-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1100152.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
             ],
-            "spacing": "1",
+            "spacing": 1,
             "showText": false,
             "filter": false,
             "bgColor": "fff",
@@ -1166,7 +1234,7 @@
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery2-17",
+          "_anchor": "gallery4-1m",
           "articleLayout": false,
           "allItem": "All"
         },
